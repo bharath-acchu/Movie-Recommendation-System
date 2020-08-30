@@ -1,4 +1,4 @@
-# Movie-Recomendation-System
+# Movie-Recommendation-System
 
 1. Popularity based recomendation system
 
