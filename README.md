@@ -8,5 +8,8 @@
 There are two types of collaborative filtering, namely:
 
 User – user collaborative filtering
+
+
 Item – item collaborative filtering
+
 
